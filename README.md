@@ -4,7 +4,7 @@ A real-time multiplayer social interaction game where players ask secret questio
 
 ## 🎮 Game Concept
 
-**Cakmak Game** (Turkish for "Lighter Game") is a turn-based social interaction game for 4 or more players. Each round involves:
+**Cakmak Game** is a turn-based social interaction game for 4 or more players. Each round involves:
 
 1. A player (asker) sends a secret question to another player (receiver)
 2. The receiver thinks of someone in the group as the answer and gives the "object" to them
